@@ -1,4 +1,5 @@
 ejemplo = "hola"
 esto = "nuevo"
 
-if
+
+moneda = True
