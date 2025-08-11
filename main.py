@@ -7,7 +7,3 @@ esto = "nuevo"
 
 
 
-moneda = True
-
-
-
