@@ -1,4 +1,6 @@
 ejemplo = "hola"
 esto = "nuevo"
 
-if
+if (true){
+    print("Hola, mundo")
+}
